@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "@tanstack/vue-query": "^5.80.7",
-    "vue": "2.7.16",
+    "vue": "3.0.0",
     "vue-template-compiler": "2.7.16"
   },
   "devDependencies": {
     "typescript": "5.8.3",
-    "vite": "^4.5.3",
+    "vite": "^6.3.5",
     "vite-plugin-vue2": "2.0.3"
   }
 }
