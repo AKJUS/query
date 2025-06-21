@@ -13,11 +13,11 @@
     "@tanstack/query-sync-storage-persister": "^5.80.10",
     "@tanstack/vue-query": "^5.80.10",
     "idb-keyval": "^6.2.1",
-    "vue": "^3.4.27"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
     "typescript": "5.8.3",
-    "vite": "^6.2.4"
+    "vite": "^6.3.5"
   }
 }
