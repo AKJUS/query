@@ -1,5 +1,12 @@
 # @tanstack/solid-query
 
+## 5.100.15
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @tanstack/query-core@5.100.15
+
 ## 5.100.14
 
 ### Patch Changes
